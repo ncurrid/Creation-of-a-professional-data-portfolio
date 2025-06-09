@@ -20,14 +20,14 @@ Clean the dataset by keeping only the relevant data to be highlighted in the das
 
 Review all the completed projects to recall the skills learned and applied.
 
-2. Conduct a Skills Assessment
+## 2. Skills assessment
 Identify the hard skills and soft skills to be emphasized in the dashboard.
 
 Request feedback from my manager to help assess my skill level before and after each completed project.
 
 Conduct a self-assessment using the tools and frameworks introduced during my training.
 
-3. Design the Dashboard
+## 3. Dashboard design
 Create a mind map to define a visual identity and choose an appropriate color palette.
 
 Explore Tableau Public for design inspiration and examples of possible visualizations.
@@ -36,14 +36,14 @@ Draft a mock-up using a collaborative workspace to plan which skills will be dis
 
 Add notes to document and explain the structure of the dashboard.
 
-4. Prepare the Data Files
+## 4. Data Files preparation
 Create data tables and populate them with the necessary information.
 
 Define the variables (columns) that will serve as keys to link the tables.
 
 Develop a data dictionary describing all the data elements used in the dashboard.
 
-5. Build the Interactive Dashboard
+## 5. Interactive dashboard creation
 Import the data files and establish connections between the tables.
 
 Create multiple visualizations to represent my skills.
@@ -56,7 +56,7 @@ Assemble the visualizations into dashboards and ensure proper interactivity.
 
 Include a link to my portfolio.
 
-6. Build My Portfolio
+## 6. Portfolio creation
 Use a collaborative workspace to design and share my portfolio.
 
 Create dedicated sections for each completed project.
@@ -67,8 +67,8 @@ Include deliverables (e.g., presentations, scripts, reports) to illustrate my wo
 
 Embed a link to the interactive dashboard.
 
-III. Technologies & Skills
-1. Technologies
+# III. Technologies & Skills
+## 1. Technologies
 Microsoft Excel – including Power Pivot
 
 Figma – for interface mock-ups
@@ -81,7 +81,7 @@ GitHub – for version control and project hosting
 
 HTML5 – for web-based portfolio integration
 
-2. Skills
+## 2. Skills
 Data Cleaning & Preparation
 
 Data Analysis
