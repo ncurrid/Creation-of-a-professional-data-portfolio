@@ -1,6 +1,6 @@
 # Creation of a professional data portfolio
 # I. Context
-The ESN (Entreprise de Services du Numérique) is structured into several divisions, each dedicated to a specific business sector.
+ESN (Entreprise de Services du Numérique) is structured into several divisions, each dedicated to a specific business sector.
 
 Within each division, business managers are responsible for developing their own revenue streams. To achieve this, they rely on consultants' expertise to execute various client missions.
 
