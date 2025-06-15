@@ -21,16 +21,16 @@ Clean the dataset by keeping only the relevant data to be highlighted in the das
 Review all the completed projects to recall the skills learned and applied.
 
 ## 2. Skills assessment
-Identify the hard skills and soft skills to be emphasized in the dashboard.
+Identify the hard skills and soft skills to be emphasised in the dashboard.
 
-Request feedback from my manager to help assess my skill level before and after each completed project.
+Request feedback from my mentor to help assess my skill level before and after each completed project.
 
 Conduct a self-assessment using the tools and frameworks introduced during my training.
 
 ## 3. Dashboard design
 Create a mind map to define a visual identity and choose an appropriate color palette.
 
-Explore Tableau Public for design inspiration and examples of possible visualizations.
+Explore Power BI for design inspiration and examples of possible visualisations.
 
 Draft a mock-up using a collaborative workspace to plan which skills will be displayed in each chart.
 
@@ -41,45 +41,39 @@ Create data tables and populate them with the necessary information.
 
 Define the variables (columns) that will serve as keys to link the tables.
 
-Develop a data dictionary describing all the data elements used in the dashboard.
-
 ## 5. Interactive dashboard creation
-Import the data files and establish connections between the tables.
+Import the data files.
 
-Create multiple visualizations to represent my skills.
+Create multiple visualisations to represent my skills.
 
 Use parameters and calculated fields to enhance the insights and usability of the dashboard.
 
 Add filters to allow dynamic interactions between the charts and display progress.
 
-Assemble the visualizations into dashboards and ensure proper interactivity.
+Assemble the visualisations into dashboards and ensure proper interactivity.
 
-Include a link to my portfolio.
+Include a link to my GitHub portfolio.
 
 ## 6. Portfolio creation
-Use a collaborative workspace to design and share my portfolio.
+Use the collaborative workspace GitHub to design and share my portfolio.
 
-Create dedicated sections for each completed project.
+Create dedicated sections for each completed project (repositories).
 
 Describe the context, methodology, technologies used, and references for each project.
 
-Include deliverables (e.g., presentations, scripts, reports) to illustrate my work.
+Include deliverables (eg: presentations, scripts, reports) to illustrate my work.
 
 Embed a link to the interactive dashboard.
 
 # III. Technologies & Skills
 ## 1. Technologies
-Microsoft Excel – including Power Pivot
-
-Figma – for interface mock-ups
+Microsoft Excel – including pivot tables
 
 Miro – for mind mapping and collaborative planning
 
-Tableau Public – for data visualization
+GitHub – for project hosting
 
-GitHub – for version control and project hosting
-
-HTML5 – for web-based portfolio integration
+Power BI - for interactive dashboard creation
 
 ## 2. Skills
 Data Cleaning & Preparation
@@ -88,10 +82,6 @@ Data Analysis
 
 Dashboard Design
 
-Data Visualization
+Data Visualisation
 
 Project Documentation
-
-Self-Evaluation & Feedback Analysis
-
-Collaborative Tools & Version Control
