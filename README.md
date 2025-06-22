@@ -57,7 +57,7 @@ This tutorial covers:
 - Creation of basic visuals: KPIs cards, worl map, Gantt chart
 - Filters
 - How to creat basic measures
-Link: [Créer un tableau de bord interactif sur Power BI] (https://www.loom.com/share/20f46278cf88483ebc48d7d57cee00f0?sid=89547202-871c-4256-a714-7603e95ffe59)
+Link: [Créer un tableau de bord interactif sur Power BI📊](https://www.loom.com/share/20f46278cf88483ebc48d7d57cee00f0?sid=89547202-871c-4256-a714-7603e95ffe59)
 
 ## 6.Creation of a Business Intelligence monitoring dashboard
 This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
