@@ -15,15 +15,23 @@ This document is about understanding the client’s needs for hiring a Data Anal
 ## 2. Elaboration of the specifications (cahier des charges)
 After reviewing all the tasks to do, I created an interactive retroplanning, coupled with a Gantt chart, to ensure that the deadlines will be respected and readjust the time allocation per project if necessary (Excel).
 
-## 3. Creation of the portfolio on GitHub
+## 3. Creation of my Business Intelligence Analyst portfolio
+I used the collaborative workspace GitHub to design and share my portfolio.
+
 ### Elaboration of a mind map
 The objective was to repertoriate and classify the content for the portfolio.
 
-### Creation of a GitHub account and integration of 10 projects and certificates
+### Creation of a GitHub account
 This video loom explains how I proceeded: [Prise en main de GitHub en moins de cinq minutes 🚀](https://www.loom.com/share/3a83e6e1df784d1b873ece2888f6b9e2?sid=431a6245-8fcc-4a88-984b-f85eb9055274)
-You will see that I also created a tagged summary, to help with the navigation between repositories.
 
-## 4. Dashboard design (interactive resume)
+### Integration of 10 projects and certifications
+- Created dedicated sections for each completed project (repositories),
+- Described the context, methodology, technologies used for each project,
+- Uploadedd deliverables (eg: presentations, scripts, reports) to illustrate my work,
+- Embeded links to the interactive dashboard and my LinkedIn account,
+- Created a tagged Summary, to help with the navigation between repositories.
+
+## 4. Interactive dashboard creation
 
 ### Data collection
 Compilation of the data gathered from my CV and my BIA training, including links to different website and platforms, to import on the Power BI dashboard (Excel).
@@ -40,27 +48,15 @@ Domain name: curridbia
 
 ### Conception of the interactive dashboard and publication online (Power BI)
 - Importation of the data file,
-- Creation of the visualisations, ensuring proper interactivity.
+- Creation of the visualisations, ensuring proper interactivity,
 - Include a link to my GitHub portfolio.I linked this interactive CV with my GitHub and LinkedIn accounts.
 
 ## 5.Creation of a Business Intelligence monitoring dashboard
 This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
 
-## 5. Interactive dashboard creation
-Import the data files.
-
-Create multiple visualisations to represent my skills.
-
-Use parameters and calculated fields to enhance the insights and usability of the dashboard.
-
-Add filters to allow dynamic interactions between the charts and display progress.
-
-Assemble the visualisations into dashboards and ensure proper interactivity.
-
-Include a link to my GitHub portfolio.
 
 ## 6. Portfolio creation
-Use the collaborative workspace GitHub to design and share my portfolio.
+
 
 Create dedicated sections for each completed project (repositories).
 
