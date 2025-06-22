@@ -31,7 +31,7 @@ This video loom explains how I proceeded: [Prise en main de GitHub en moins de c
 - Embeded links to the interactive dashboard and my LinkedIn account,
 - Created a tagged Summary, to help with the navigation between repositories.
 
-## 4. Creation of my dashboard (interactive CV)
+## 4. Creation of my interactive dashboard
 
 ### Data collection
 Compilation of the data gathered from my CV and my BIA training, including links to different website and platforms, to import on the Power BI dashboard (Excel).
@@ -51,9 +51,16 @@ Domain name: curridbia
 - Created the visualisations, ensuring proper interactivity,
 - Embeded a link to my GitHub portfolio and LinkedIn account.
 
-## 5.Creation of a Business Intelligence monitoring dashboard
-This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
+## 5. Recording of a tutorial on how to create a basic dashboard on Power BI (Loom)
+This tutorial covers:
+- Data importation,
+- Creation of basic visuals: KPIs cards, worl map, Gantt chart
+- Filters
+- How to creat basic measures
+Link: [Créer un tableau de bord interactif sur Power BI] (https://www.loom.com/share/20f46278cf88483ebc48d7d57cee00f0?sid=89547202-871c-4256-a714-7603e95ffe59)
 
+## 6.Creation of a Business Intelligence monitoring dashboard
+This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
 
 # III. Tools & Skills
 ## Tools
@@ -61,6 +68,7 @@ Microsoft Excel – including pivot tables
 Miro – for mind mapping and collaborative planning
 GitHub – for project hosting
 Power BI - for interactive dashboard creation
+Loom
 
 ## Skills
 Data analysis and preparation
