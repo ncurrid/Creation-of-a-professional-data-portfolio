@@ -55,13 +55,14 @@ Domain name: curridbia
 This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
 
 
-# III. Tools
+# III. Tools & Skills
+## Tools
 Microsoft Excel – including pivot tables
 Miro – for mind mapping and collaborative planning
 GitHub – for project hosting
 Power BI - for interactive dashboard creation
 
-## IV. Skills
+## Skills
 Data analysis and preparation
 Dashboard Design / Data visualisation
 Project Documentation
