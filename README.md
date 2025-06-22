@@ -30,32 +30,19 @@ Compilation of the data gathered from my CV and my BIA training, including links
 Identification of the hard skills and soft skills to be emphasised in the dashboard.
 
 ### Dashboard design
-Creation of 2 mock-ups to help decide on the best dashboaord design (Miro).
+I explored Power BI for design inspiration and examples of possible visualisations and I then drafted 2 mock-ups to help decide on the best dashboaord design (Miro).
 
 ### Creation of a Power BI account on the Micrsofot cloud
-A cloud Power BI account allows users to easily share interactive reports and dashboards with colleagues in real time.
+A Power BI account on the cloud allows users to easily share interactive reports and dashboards with colleagues in real time.
 Domain name: curridbia
 
 ### Conception of the interactive dashboard and publication online (Power BI)
-I linked this interactive CV with my GitHub and LinkedIn accounts.
+- Importation of the data file,
+- Creation of the visualisations, ensuring proper interactivity.
+- Include a link to my GitHub portfolio.I linked this interactive CV with my GitHub and LinkedIn accounts.
 
 ## 5.Creation of a Business Intelligence monitoring dashboard
-This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills.(Excel)
-Relecture générale et buffer![image](https://github.com/user-attachments/assets/7a743771-48ae-4336-af6a-2f25a8818d9f)
-
-
-Creation of a mind map to define a visual identity and choose an appropriate color palette.
-
-Explore Power BI for design inspiration and examples of possible visualisations.
-
-Draft a mock-up using a collaborative workspace to plan which skills will be displayed in each chart.
-
-Add notes to document and explain the structure of the dashboard.
-
-## 4. Data Files preparation
-Create data tables and populate them with the necessary information.
-
-Define the variables (columns) that will serve as keys to link the tables.
+This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
 
 ## 5. Interactive dashboard creation
 Import the data files.
