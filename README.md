@@ -13,32 +13,34 @@ This document is about understanding the client’s needs for hiring a Data Anal
 ## 2. Elaboration of the specifications (cahier des charges)
 After reviewing all the tasks to do, I created an interactive retroplanning, coupled with a Gantt chart, to ensure that the deadlines will be respected and readjust the time allocation per project if necessary (Excel).
 
-## 3. Creation of a mind map for the GitHub portfolio
+## 3. Creation of the portfolio on GitHub
+### Elaboration of a mind map
 The objective was to repertoriate and classify the content for the portfolio.
 
-## 4. Creation of a GitHub account
+### Creation of a GitHub account and integration of 10 projects and certificates
 This video loom explains how I proceeded: [Prise en main de GitHub en moins de cinq minutes 🚀](https://www.loom.com/share/3a83e6e1df784d1b873ece2888f6b9e2?sid=431a6245-8fcc-4a88-984b-f85eb9055274)
+You will see that I also created a tagged summary, to help with the navigation between repositories.
 
+## 4. Dashboard design (interactive resume)
 
-## 3. Data collection
-Creation of an Excel document containing  all the information gathered from my CV and my BIA training, including links to different website and platforms.
+### Data collection
+Compilation of the data gathered from my CV and my BIA training, including links to different website and platforms, to import on the Power BI dashboard (Excel).
 
-## 2. Skills assessment
+### Skills assessment
 Identification of the hard skills and soft skills to be emphasised in the dashboard.
 
-## 3. Dashboard design
-- Creation of 2 mock-ups to help decide on the best dashboaord design (Miro),
+### Dashboard design
+Creation of 2 mock-ups to help decide on the best dashboaord design (Miro).
 
-Élaboration du cahier des charges avec rétroplanning et diagramme de Gantt (Excel)
-Analyse des besoins métier (rapport au format Word)
-Création d'une carte mentale pour répertorier le contenu à mettre sur GitHub (Miro)
-Création d'un compte GitHub pour le porfolio
-Intégration de 10 projets et certificats : 11 repositories (GitHub)
-Création de 2 mock-ups pour le CV interactif (Miro)
-Compilation des données pour le CV interactif Power BI (Excel)
-Création d'un compte Power BI sur le cloud de Microsoft - Nom de domaine : curridbia
-Conception du CV interactif et mise en ligne (Power BI)
-Création d'un tableau de bord de veille métier (Excel)
+### Creation of a Power BI account on the Micrsofot cloud
+A cloud Power BI account allows users to easily share interactive reports and dashboards with colleagues in real time.
+Domain name: curridbia
+
+### Conception of the interactive dashboard and publication online (Power BI)
+I linked this interactive CV with my GitHub and LinkedIn accounts.
+
+## 5.Creation of a Business Intelligence monitoring dashboard
+This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills.(Excel)
 Relecture générale et buffer![image](https://github.com/user-attachments/assets/7a743771-48ae-4336-af6a-2f25a8818d9f)
 
 
