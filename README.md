@@ -1,16 +1,12 @@
 # Creation of a professional data portfolio
 # I. Context
-ESN data is structured into several divisions, each dedicated to a specific business sector.
+ESN data is structured into several divisions, each dedicated to a specific business sector. Within each division, business managers are responsible for developing their own revenue streams. To achieve this, they rely on consultants' expertise to execute various client missions. 
 
-Within each division, business managers are responsible for developing their own revenue streams. To achieve this, they rely on consultants' expertise to execute various client missions.
+An opportunity has been offered to me to join an international team at Aéroworld, a global leader in aerospace. Aéroworld is recruiting a Data Analyst Project Manager to tackle major data challenges. The company generates massive volumes of data (flight tests, sensors, maintenance, clients) and needs robust systems like Data Lakes for structured management. Key technical issues include data integration and interoperability, cybersecurity and confidentiality, scalable infrastructure, and the use of AI and machine learning for analysis. 
 
-An opportunity has been offered to me to join an international team for a project scheduled to start in two weeks.
+The ideal candidate must be experienced, adaptable, and with a consulting mindset. 
 
-This four-month mission, for a major aeronautics manufacturer, will involve several trips across Europe.
-
-The objective of the mission is to optimise the supply chain with their suppliers. It will require analysing data and creating dashboards for the logistics management teams.
-
-To apply for this position, I needed to design a dashboard that demonstrates my skills and supports my application. Additionally, I had to build a portfolio showcasing the projects I have completed.
+To apply for this position, I have designed an interactive dashboard and a portfolio showcasing the projects that I have completed.
 
 # II. Methodology
 ## 1. Data collection
