@@ -31,7 +31,7 @@ This video loom explains how I proceeded: [Prise en main de GitHub en moins de c
 - Embeded links to the interactive dashboard and my LinkedIn account,
 - Created a tagged Summary, to help with the navigation between repositories.
 
-## 4. Interactive dashboard creation
+## 4. Creation of my dashboard (interactive CV)
 
 ### Data collection
 Compilation of the data gathered from my CV and my BIA training, including links to different website and platforms, to import on the Power BI dashboard (Excel).
@@ -43,46 +43,25 @@ Identification of the hard skills and soft skills to be emphasised in the dashbo
 I explored Power BI for design inspiration and examples of possible visualisations and I then drafted 2 mock-ups to help decide on the best dashboaord design (Miro).
 
 ### Creation of a Power BI account on the Micrsofot cloud
-A Power BI account on the cloud allows users to easily share interactive reports and dashboards with colleagues in real time.
+It allows users to easily share interactive reports and dashboards with colleagues in real time.
 Domain name: curridbia
 
 ### Conception of the interactive dashboard and publication online (Power BI)
-- Importation of the data file,
-- Creation of the visualisations, ensuring proper interactivity,
-- Include a link to my GitHub portfolio.I linked this interactive CV with my GitHub and LinkedIn accounts.
+- Importated the data file,
+- Created the visualisations, ensuring proper interactivity,
+- Embeded a link to my GitHub portfolio and LinkedIn account.
 
 ## 5.Creation of a Business Intelligence monitoring dashboard
 This dashboard monitors job market opportunities by tracking trends, emerging roles, and required skills (Excel).
 
 
-## 6. Portfolio creation
-
-
-Create dedicated sections for each completed project (repositories).
-
-Describe the context, methodology, technologies used, and references for each project.
-
-Include deliverables (eg: presentations, scripts, reports) to illustrate my work.
-
-Embed a link to the interactive dashboard.
-
-# III. Technologies & Skills
-## 1. Technologies
+# III. Tools
 Microsoft Excel – including pivot tables
-
 Miro – for mind mapping and collaborative planning
-
 GitHub – for project hosting
-
 Power BI - for interactive dashboard creation
 
-## 2. Skills
-Data Cleaning & Preparation
-
-Data Analysis
-
-Dashboard Design
-
-Data Visualisation
-
+## IV. Skills
+Data analysis and preparation
+Dashboard Design / Data visualisation
 Project Documentation
